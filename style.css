@@ -75,3 +75,11 @@ footer {
     padding: 5px;
     text-align: center;
 }
+
+@midia (max-width: 600px) {
+
+    h1 {
+        background: red ;
+    }
+
+}
